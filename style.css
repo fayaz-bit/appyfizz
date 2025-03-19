@@ -1,0 +1,126 @@
+.header{
+    width: 100%;
+    height: 75px;
+    background: black;
+    position: fixed;
+}
+body{
+    margin: 0;
+}
+.img1{
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.left-section{
+    float: left;
+    margin-left: 500px;
+    padding-top: 30px;
+    display: flex;
+    gap: 30px;
+    font-family:"MerivareRegular",sans-serif;
+    font-size: 17px;
+    transition: color 0.5s ease-in-out;
+    
+}
+.left-section a{
+    text-decoration: none;
+    color: whitesmoke;
+    gap: 10px;
+
+
+}
+.left-section :hover{
+    color: red;
+}
+.first-body img{
+    width: 100%;
+
+}
+.thirdright-section{
+    background-color: black;
+    width: 50%;
+    margin: 0;
+    margin-top: -4px;
+    float: left;
+   height: 810px;
+    
+}
+.slider{
+    width: 250px;
+    padding-left: 250px;
+    padding-top: 70px;
+}
+.text{
+    margin-top: -550px;
+    color: rgb(255, 255, 255);
+    padding-left: 185px;
+    font-size: 50px;
+    font-weight: 40;
+    font-family: "EksellDisplayWeb-Small";
+}
+.thirdleft-section{
+    width: 50%;
+    color: rgb(0, 0, 0);
+    float: left;
+    margin-top: -4px;
+}
+.para{
+    font-family: "merivaregular";
+    font-size: 24px;
+    line-height: 1.2;
+    padding-left: 130px;
+    padding-top: 100px;
+}
+.para2{
+    font-family: "merivaregular";
+    font-size: 24px;
+    line-height: 1.2;
+    padding-left: 130px;
+    padding-top: 100px;
+    padding-top: 10px;
+    
+}
+.para3{
+    font-family: "merivaregular";
+    font-size: 24px;
+    line-height: 1.2;
+    padding-left: 130px;
+    padding-top: 100px;
+    padding-top: 10px;
+    
+}
+.smalllogo{
+    padding-left: 130px;
+}
+.forthbody img{
+    width: 100%;
+}
+.firstdiv{
+    margin-left: 50px;
+    float: left;
+
+}
+.seconddiv{
+    float: left;
+    margin-left: 160px;
+}
+.link{
+    margin-top: 20px;
+    color: black;
+    transition: color 0.s ease-in-out;
+}
+.link:hover{
+    color: red;
+}
+.thirddiv{
+    float: left;
+    margin-left: 100px;
+    padding-top: 16px;
+}
+
+
+
+
+
